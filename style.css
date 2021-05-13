@@ -1,0 +1,20 @@
+.sticker{
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	margin: 5px;
+}
+#coding {
+	font-size: 40px;
+	font-weight:bold;
+	font-family:"Courier New";
+background: linear-gradient(Red,OrangeRed,yellow,Green);
+padding: 50px 40px;
+border-radius: 20px;
+}
+#web {
+	font-size: 40px;
+	font-weight:Impact;
+padding: 30px;
+border-radius: 100px;
+}
